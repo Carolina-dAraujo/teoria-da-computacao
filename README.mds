@@ -1,0 +1,1 @@
+Algoritmo de determinação que recebe um autômato não-determinístico e constrói o autômato determinístico equivalente através do método dos subconjuntos.
